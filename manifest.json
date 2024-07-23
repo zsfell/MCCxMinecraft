@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "MCC x Minecraft 15th Anniversary Party - Main RP",
+    "name": "MCC x Minecraft 15th Anniversary Party - Main RP",
+    "uuid": "baed6691-4018-4ad8-a045-9d36c8807bc0",
+    "version": [
+      1,
+      0,
+      8
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "MCC x Minecraft 15th Anniversary Party - Main RP",
+      "type": "resources",
+      "uuid": "457f55a3-2573-4e3c-a5db-f7e64b3d43a5",
+      "version": [
+        1,
+        0,
+        8
+      ]
+    }
+  ]
+}
